@@ -1,0 +1,145 @@
+21:33:11.123 Navigated to https://www.warbyparker.com/
+21:33:25.255 pixel.pointmediatracker.com/kpi?c=warbyparker&kpi=visit&tag_id=89&user_id=undefined&fpc=rbos-20aa83a3-cb7f-44b0-b234-b0b0a8f22daf&gtmcb=560436411:1     GET https://pixel.pointmediatracker.com/kpi?c=warbyparker&kpi=visit&tag_id=89&user_id=undefined&fpc=rbos-20aa83a3-cb7f-44b0-b234-b0b0a8f22daf&gtmcb=560436411 net::ERR_NAME_NOT_RESOLVED
+Image (async)
+tc @ gtm.js?id=GTM-N29SR4:107
+AF @ gtm.js?id=GTM-N29SR4:509
+(anonymous) @ gtm.js?id=GTM-N29SR4:592
+af @ gtm.js?id=GTM-N29SR4:146
+e @ gtm.js?id=GTM-N29SR4:375
+(anonymous) @ gtm.js?id=GTM-N29SR4:96
+(anonymous) @ gtm.js?id=GTM-N29SR4:376
+(anonymous) @ gtm.js?id=GTM-N29SR4:376
+P @ gtm.js?id=GTM-N29SR4:376
+w.vtp_gtmOnSuccess @ gtm.js?id=GTM-N29SR4:374
+(anonymous) @ gtm.js?id=GTM-N29SR4:587
+load (async)
+lc @ gtm.js?id=GTM-N29SR4:104
+(anonymous) @ gtm.js?id=GTM-N29SR4:586
+(anonymous) @ gtm.js?id=GTM-N29SR4:587
+(anonymous) @ gtm.js?id=GTM-N29SR4:586
+b @ gtm.js?id=GTM-N29SR4:587
+af @ gtm.js?id=GTM-N29SR4:146
+e @ gtm.js?id=GTM-N29SR4:375
+(anonymous) @ gtm.js?id=GTM-N29SR4:96
+(anonymous) @ gtm.js?id=GTM-N29SR4:376
+(anonymous) @ gtm.js?id=GTM-N29SR4:376
+av @ gtm.js?id=GTM-N29SR4:377
+jv @ gtm.js?id=GTM-N29SR4:381
+tw @ gtm.js?id=GTM-N29SR4:399
+ww @ gtm.js?id=GTM-N29SR4:404
+Aw.b.push @ gtm.js?id=GTM-N29SR4:407
+(anonymous) @ gtm.js?id=GTM-N29SR4:406
+r @ _app-17a7e5cec15231b2.js:14
+setTimeout (async)
+(anonymous) @ _app-17a7e5cec15231b2.js:14
+J @ gtm.js?id=GTM-N29SR4:107
+Rv @ gtm.js?id=GTM-N29SR4:398
+(anonymous) @ gtm.js?id=GTM-N29SR4:603
+(anonymous) @ gtm.js?id=GTM-N29SR4:600
+(anonymous) @ gtm.js?id=GTM-N29SR4:600
+(anonymous) @ gtm.js?id=GTM-N29SR4:606
+21:34:02.333 Navigated to https://www.warbyparker.com/cart
+21:34:21.641 bundle-sentry.js:1 WPEventManager: WPEventManager initialized
+21:34:35.203 pixel.pointmediatracker.com/kpi?c=warbyparker&kpi=visit&tag_id=89&user_id=076fb351-fc18-40b2-9fa4-fa5478f2efe44&fpc=rbos-20aa83a3-cb7f-44b0-b234-b0b0a8f22daf&gtmcb=1630511617:1     GET https://pixel.pointmediatracker.com/kpi?c=warbyparker&kpi=visit&tag_id=89&user_id=076fb351-fc18-40b2-9fa4-fa5478f2efe44&fpc=rbos-20aa83a3-cb7f-44b0-b234-b0b0a8f22daf&gtmcb=1630511617 net::ERR_NAME_NOT_RESOLVED
+Image (async)
+tc @ gtm.js?id=GTM-N29SR4:107
+AF @ gtm.js?id=GTM-N29SR4:509
+(anonymous) @ gtm.js?id=GTM-N29SR4:592
+af @ gtm.js?id=GTM-N29SR4:146
+e @ gtm.js?id=GTM-N29SR4:375
+(anonymous) @ gtm.js?id=GTM-N29SR4:96
+(anonymous) @ gtm.js?id=GTM-N29SR4:376
+(anonymous) @ gtm.js?id=GTM-N29SR4:376
+P @ gtm.js?id=GTM-N29SR4:376
+w.vtp_gtmOnSuccess @ gtm.js?id=GTM-N29SR4:374
+(anonymous) @ gtm.js?id=GTM-N29SR4:587
+load (async)
+lc @ gtm.js?id=GTM-N29SR4:104
+(anonymous) @ gtm.js?id=GTM-N29SR4:586
+(anonymous) @ gtm.js?id=GTM-N29SR4:587
+(anonymous) @ gtm.js?id=GTM-N29SR4:586
+b @ gtm.js?id=GTM-N29SR4:587
+af @ gtm.js?id=GTM-N29SR4:146
+e @ gtm.js?id=GTM-N29SR4:375
+(anonymous) @ gtm.js?id=GTM-N29SR4:96
+(anonymous) @ gtm.js?id=GTM-N29SR4:376
+(anonymous) @ gtm.js?id=GTM-N29SR4:376
+av @ gtm.js?id=GTM-N29SR4:377
+jv @ gtm.js?id=GTM-N29SR4:381
+tw @ gtm.js?id=GTM-N29SR4:399
+ww @ gtm.js?id=GTM-N29SR4:404
+Aw.b.push @ gtm.js?id=GTM-N29SR4:407
+(anonymous) @ gtm.js?id=GTM-N29SR4:406
+c @ bundle-sentry.js:1
+setTimeout (async)
+(anonymous) @ bundle-sentry.js:1
+J @ gtm.js?id=GTM-N29SR4:107
+Rv @ gtm.js?id=GTM-N29SR4:398
+c @ bundle-sentry.js:1
+load (async)
+(anonymous) @ bundle-sentry.js:1
+(anonymous) @ bundle-sentry.js:1
+uc @ gtm.js?id=GTM-N29SR4:107
+(anonymous) @ gtm.js?id=GTM-N29SR4:603
+(anonymous) @ gtm.js?id=GTM-N29SR4:600
+(anonymous) @ gtm.js?id=GTM-N29SR4:600
+(anonymous) @ gtm.js?id=GTM-N29SR4:606
+21:34:52.892 datadog-logs-us.js:5 Cross-Origin Read Blocking (CORB) blocked cross-origin response https://browser-http-intake.logs.datadoghq.com/v1/input/pub6428f4c44ba2741c4c0cd2b8f85a9adc?ddsource=browser&ddtags=sdk_version%3A3.0.2 with MIME type application/json. See https://www.chromestatus.com/feature/5629709824032768 for more details.
+t.send @ datadog-logs-us.js:5
+e.flush @ datadog-logs-us.js:5
+(anonymous) @ datadog-logs-us.js:5
+K @ datadog-logs-us.js:5
+(anonymous) @ datadog-logs-us.js:5
+c @ bundle-sentry.js:1
+setTimeout (async)
+(anonymous) @ bundle-sentry.js:1
+e.flushPeriodically @ datadog-logs-us.js:5
+e @ datadog-logs-us.js:5
+r @ datadog-logs-us.js:5
+(anonymous) @ datadog-logs-us.js:5
+(anonymous) @ datadog-logs-us.js:5
+(anonymous) @ datadog-logs-us.js:5
+(anonymous) @ datadog-logs-us.js:5
+K @ datadog-logs-us.js:5
+(anonymous) @ datadog-logs-us.js:5
+(anonymous) @ cart:135
+21:36:25.123 datadog-logs-us.js:5 Cross-Origin Read Blocking (CORB) blocked cross-origin response https://browser-http-intake.logs.datadoghq.com/v1/input/pub6428f4c44ba2741c4c0cd2b8f85a9adc?ddsource=browser&ddtags=sdk_version%3A3.0.2 with MIME type application/json. See https://www.chromestatus.com/feature/5629709824032768 for more details.
+t.send @ datadog-logs-us.js:5
+e.flush @ datadog-logs-us.js:5
+(anonymous) @ datadog-logs-us.js:5
+K @ datadog-logs-us.js:5
+(anonymous) @ datadog-logs-us.js:5
+c @ bundle-sentry.js:1
+setTimeout (async)
+(anonymous) @ bundle-sentry.js:1
+e.flushPeriodically @ datadog-logs-us.js:5
+(anonymous) @ datadog-logs-us.js:5
+K @ datadog-logs-us.js:5
+(anonymous) @ datadog-logs-us.js:5
+c @ bundle-sentry.js:1
+setTimeout (async)
+(anonymous) @ bundle-sentry.js:1
+e.flushPeriodically @ datadog-logs-us.js:5
+(anonymous) @ datadog-logs-us.js:5
+K @ datadog-logs-us.js:5
+(anonymous) @ datadog-logs-us.js:5
+c @ bundle-sentry.js:1
+setTimeout (async)
+(anonymous) @ bundle-sentry.js:1
+e.flushPeriodically @ datadog-logs-us.js:5
+(anonymous) @ datadog-logs-us.js:5
+K @ datadog-logs-us.js:5
+(anonymous) @ datadog-logs-us.js:5
+c @ bundle-sentry.js:1
+setTimeout (async)
+(anonymous) @ bundle-sentry.js:1
+e.flushPeriodically @ datadog-logs-us.js:5
+e @ datadog-logs-us.js:5
+r @ datadog-logs-us.js:5
+(anonymous) @ datadog-logs-us.js:5
+(anonymous) @ datadog-logs-us.js:5
+(anonymous) @ datadog-logs-us.js:5
+(anonymous) @ datadog-logs-us.js:5
+K @ datadog-logs-us.js:5
+(anonymous) @ datadog-logs-us.js:5
+(anonymous) @ cart:135
